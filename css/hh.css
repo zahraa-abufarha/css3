@@ -1,0 +1,15 @@
+.team{
+    text-align: center;
+}
+.div2{
+   
+    float: left;
+    width: 30%;
+}
+.clear{
+    clear: left;
+}
+i{
+    
+    color: rgb(0, 0, 0);
+}
